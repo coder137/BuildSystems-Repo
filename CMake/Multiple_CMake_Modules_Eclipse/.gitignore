@@ -1,0 +1,8 @@
+# Folders
+/build/
+.settings
+
+# Files
+*.ninja*
+.cproject
+
