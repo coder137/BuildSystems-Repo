@@ -4,10 +4,16 @@
   - Simple first example to get started with Meson 
 - [x] Multiple_Files
   - Compile multiple files with Meson 
-- [ ] Include_Files
-  - Include Header Files and Source Files with Meson 
-- [ ] Multiple_Meson_Modules
+- [x] Multiple_Subdirectories
   - Modularizing your code into Meson Modules
+- [ ] Custom Target
+  - Creating custom targets and outputs
+  - Dependency checking
+- [ ] Custom Flags
+  - Custom C and Linker flags 
+- [ ] Cross Compilation
+  - Specify your C/C++ Toolchain for build
+- [ ] Unit-Test Integration
 
 > TODO, Add more
 
