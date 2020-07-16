@@ -1,0 +1,8 @@
+option('string_op', type: 'string', value: 'default', description: 'input a string')
+option('boolean_op', type: 'boolean', value: false)
+option('integer_op', type: 'integer', min: 1, max: 5, value: 3)
+
+option('combo_op', type: 'combo', choices: ['one', 'two', 'three'], value: 'three')
+option('array_op', type: 'array', choices: ['one', 'two', 'three'], value: ['one', 'two'])
+
+option('feature_op', type: 'feature', value: 'enabled')
